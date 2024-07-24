@@ -5,10 +5,9 @@ Proje, veri analizi ve görselleştirme, veri ön işleme, modelleme ve tahmin a
 2. KURULUM TALİMATLARI
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları uygulayabilirsinizz:
 
-Depoyu Kopyalayın: Projeyi yerel bilgisayarınıza kopyalayın.
-Gerekli Kütüphaneleri:
+Depoyu Kopyalayın.
+Gerekli Kütüphaneler:
 pandas,numpy,matplotlib,seaborn,sklearn,tensorflow
-Gerekli kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 Veri setini sizlerle paylaştığım merc.xlsx dosyasıdır.
 
 3. KULLANIM
